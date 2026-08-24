@@ -103,6 +103,7 @@ a { color: inherit; }
   box-shadow: 0 1px 0 rgba(16, 36, 26, 0.06);
 }
 .topbar .wrap {
+  max-width: 1340px;
   display: flex;
   align-items: center;
   justify-content: space-between;
