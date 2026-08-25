@@ -439,6 +439,21 @@ footer { background: #10281b; color: #fff; padding: 60px 0 32px; }
   color: rgba(255, 255, 255, 0.55);
 }
 
+/* ---------- Pages legales ---------- */
+
+.legal { max-width: 820px; margin: 0 auto; padding: 56px 28px 88px; }
+.legal h2 {
+  font-size: 19px;
+  margin: 42px 0 14px;
+  color: var(--green-deep);
+}
+.legal p { font-size: 15px; color: var(--ink-soft); margin-bottom: 12px; }
+.legal a { color: var(--green-deep); }
+.legal .maj { font-size: 13.5px; color: var(--muted); }
+
+.foot-bottom a { color: rgba(255, 255, 255, 0.55); text-decoration: underline; }
+.foot-bottom a:hover { color: #fff; }
+
 /* ---------- Divers ---------- */
 
 .serp-q { font-size: 13px; color: var(--muted); }
