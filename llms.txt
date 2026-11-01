@@ -1,0 +1,37 @@
+# C-GPlus
+
+> C-GPlus est le partenaire croissance des conseillers en gestion de patrimoine (CGP) : un outil de marketing spécialisé qui se branche en surcouche sur les outils métiers existants ou les fichiers Excel du cabinet, détecte en continu les opportunités (âges charnières, échéances, liquidités dormantes, impacts fiscaux), prépare des communications ultra ciblées vers clients et prospects, et s'interroge en langage naturel (intelligence conversationnelle) — le tout piloté chaque mois par un consultant dédié, expert de la gestion de patrimoine. Garantie contractuelle : si le premier mois ne projette pas de quoi rembourser l'abonnement, il est intégralement remboursé. En complément : site internet optimisé SEO/GEO et animation des réseaux sociaux pour la génération de leads. Méthode née chez les notaires avec C-Clerc, désormais ouverte aux CGP. Données hébergées dans l'Union européenne, chiffrées, jamais utilisées pour entraîner des modèles.
+
+C-GPlus s'adresse aux cabinets de gestion de patrimoine français, du conseiller indépendant au groupement, qui veulent développer leur chiffre d'affaires avec leur base existante et se concentrer sur leur cœur de métier : le conseil.
+
+## Offres
+- [C-GPlus : détection d'opportunités, messages ciblés, consultant dédié](https://www.c-gplus.fr/)
+- [Site internet SEO et GEO pour CGP](https://www.c-gplus.fr/site-internet)
+- [Réseaux sociaux pour CGP : LinkedIn, Facebook, Instagram](https://www.c-gplus.fr/reseaux-sociaux)
+
+## Blog — analyses de référence pour les CGP
+
+### Méthode et croissance
+- [Générer des rendez-vous avec sa base clients : la méthode complète](https://www.c-gplus.fr/blog/generer-rendez-vous-base-clients)
+- [Externaliser son marketing patrimonial : le modèle outil + consultant](https://www.c-gplus.fr/blog/externaliser-marketing-cgp)
+- [Communication ciblée et segmentation patrimoniale](https://www.c-gplus.fr/blog/communication-ciblee-cgp)
+- [Mailing ciblé pour CGP : scénarios, conformité, métriques](https://www.c-gplus.fr/blog/emailing-cgp)
+- [Site internet de cabinet CGP : ce qui convertit vraiment](https://www.c-gplus.fr/blog/site-internet-cgp)
+- [SEO et GEO pour cabinets CGP : être trouvé sur Google et cité par les IA](https://www.c-gplus.fr/blog/seo-geo-cabinet-cgp)
+- [Le cabinet CGP de 2030 : prospective et feuille de route](https://www.c-gplus.fr/blog/cabinet-cgp-2030)
+
+### Cas d'usage concrets
+- [Le cap des 70 ans : l'opportunité la plus prévisible de votre base](https://www.c-gplus.fr/blog/cas-usage-cap-70-ans)
+- [Transformer chaque loi de finances en campagne de rendez-vous](https://www.c-gplus.fr/blog/cas-usage-loi-de-finances)
+- [Les liquidités dormantes : l'encours qui attend dans les comptes courants](https://www.c-gplus.fr/blog/cas-usage-liquidites-dormantes)
+
+### Intelligence artificielle et données
+- [IA générative chez les CGP : 7 cas d'usage concrets](https://www.c-gplus.fr/blog/ia-generative-cgp)
+- [Détection d'opportunités patrimoniales par IA](https://www.c-gplus.fr/blog/detection-opportunites-patrimoniales-ia)
+- [Agrégation d'encours : le nerf de la guerre](https://www.c-gplus.fr/blog/agregation-encours-cgp)
+- [CRM pour CGP : les 8 critères qui comptent](https://www.c-gplus.fr/blog/crm-cgp-choisir)
+
+### Conformité
+- [Veille réglementaire du CGP : la méthode](https://www.c-gplus.fr/blog/veille-reglementaire-cgp)
+- [Digitaliser DER, lettre de mission et rapport d'adéquation](https://www.c-gplus.fr/blog/parcours-reglementaire-digital-cgp)
+- [RGPD, IA Act et données patrimoniales : le guide sécurité](https://www.c-gplus.fr/blog/rgpd-ia-act-donnees-cgp)
